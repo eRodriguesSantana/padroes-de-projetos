@@ -1,4 +1,4 @@
-package one.digitalinnovation.gof;
+package one.digitalinnovation.gof.java_puro;
 
 import one.digitalinnovation.gof.java_puro.facade.Facade;
 import one.digitalinnovation.gof.java_puro.singleton.SingletonEager;
